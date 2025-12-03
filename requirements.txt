@@ -1,0 +1,28 @@
+# nomAD - AI-Assisted Active Directory Attack-Path Analysis Tool
+# Core Requirements
+
+# Graph processing and algorithms
+networkx>=3.0
+
+# LDAP collection
+ldap3>=2.9
+
+# Visualization
+matplotlib>=3.5
+pyvis>=0.3.0
+
+# AI/LLM integration (optional - install based on provider)
+openai>=1.0.0
+# anthropic>=0.5.0  # Uncomment for Anthropic support
+
+# GUI (Streamlit)
+streamlit>=1.30.0
+pandas>=2.0.0
+
+# Utilities
+python-dateutil>=2.8
+
+# Development/Testing (optional)
+# pytest>=7.0
+# pytest-cov>=4.0
+

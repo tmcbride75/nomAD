@@ -1,0 +1,3 @@
+# This file ensures the output directory exists in git
+# Output files are ignored via .gitignore
+
